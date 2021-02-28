@@ -1,0 +1,16 @@
+{
+  "short_name": "Pluggy Edit",
+  "name": "The Pluggy Audio Editor",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#AA412B",
+  "orientation": "landscape",
+  "background_color": "#ffffff"
+}
